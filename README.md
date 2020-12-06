@@ -1,2 +1,1 @@
-### Bruno Luz
-Programmer | Code
+### Programmer | Code
